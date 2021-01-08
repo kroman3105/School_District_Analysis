@@ -3,7 +3,7 @@
 ## Project Overview
 In working with the the school board to perform a district analysis on math and reading scores, it was brought to our attention that part of our data may have been corrupted.  We will be using Pandas functions to remove the corrupted data revising the dataframe, and then analyze the passing success rates of individual schools as well as the district as a whole using the following steps:
 
-1. Replacing corrupted data with NaNs
+1. Replace corrupted data with NaNs
 2. Create a new district summary dataframe showing average math and reading scores with passing percentages
 3. Create a new school summary dataframe showing average math and reading scores with passing percentages
 4. Summarize top and bottom five performng schools
